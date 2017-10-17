@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <EmployeesList>
+        <Employee>
+            <ID>1</ID>
+            <Name>Harold Mendez</Name>
+            <Salary>1000</Salary>
+            <DepartmentId>1</DepartmentId>
+        </Employee>
+		<Employee>
+            <ID>2</ID>
+            <Name>Eduardo Napper</Name>
+            <Salary>1200</Salary>
+            <DepartmentId>1</DepartmentId>
+        </Employee>
+		<Employee>
+            <ID>3</ID>
+            <Name>Rodney Lanphear</Name>
+            <Salary>1500</Salary>
+            <DepartmentId>1</DepartmentId>
+        </Employee>
+		<Employee>
+            <ID>4</ID>
+            <Name>Laurie Light</Name>
+            <Salary>2000</Salary>
+            <DepartmentId>2</DepartmentId>
+        </Employee>
+		<Employee>
+            <ID>5</ID>
+            <Name>Brian Begley</Name>
+            <Salary>1800</Salary>
+            <DepartmentId>2</DepartmentId>
+        </Employee>
+		<Employee>
+            <ID>6</ID>
+            <Name>Michael Mercer</Name>
+            <Salary>1000</Salary>
+            <DepartmentId>2</DepartmentId>
+        </Employee>
+		<Employee>
+            <ID>7</ID>
+            <Name>Ollie Lipton</Name>
+            <Salary>1300</Salary>
+            <DepartmentId>3</DepartmentId>
+        </Employee>
+		<Employee>
+            <ID>8</ID>
+            <Name>Frances Hugley</Name>
+            <Salary>1900</Salary>
+            <DepartmentId>3</DepartmentId>
+        </Employee>
+		<Employee>
+            <ID>9</ID>
+            <Name>Jarred Gray</Name>
+            <Salary>2100</Salary>
+            <DepartmentId>3</DepartmentId>
+        </Employee>
+		<Employee>
+            <ID>10</ID>
+            <Name>Aimee Borges</Name>
+            <Salary>900</Salary>
+            <DepartmentId>4</DepartmentId>
+        </Employee>
+		<Employee>
+            <ID>11</ID>
+            <Name>Michelle Martin</Name>
+            <Salary>1100</Salary>
+            <DepartmentId>4</DepartmentId>
+        </Employee>
+		<Employee>
+            <ID>12</ID>
+            <Name>Ahmad Gorham</Name>
+            <Salary>1700</Salary>
+            <DepartmentId>5</DepartmentId>
+        </Employee>
+    </EmployeesList>
+    <DepartmentsList>
+        <Department>
+            <ID>1</ID>
+            <Name>Development</Name>
+        </Department>
+        <Department>
+            <ID>2</ID>
+            <Name>Marketing</Name>
+        </Department>
+        <Department>
+            <ID>3</ID>
+            <Name>Management</Name>
+        </Department>
+        <Department>
+            <ID>4</ID>
+            <Name>QA</Name>
+        </Department>
+        <Department>
+            <ID>5</ID>
+            <Name>Sales</Name>
+        </Department>
+    </DepartmentsList>
+</root>
