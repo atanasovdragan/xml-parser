@@ -25,4 +25,5 @@ Application running bootstrap for its front-end needs.
 
 All classes and interfaces and basically the full implementation is located in the "app" folder.
 
-Notice: You can find Singleton, Factory, Strategy, Gateway and Repository patterns in some of the implemented code solutions.
+**Notice:** You can find Singleton, Factory, Strategy, Gateway and Repository patterns in some of the implemented code solutions. You will need
+PHP 7.1 installed to run this app.
